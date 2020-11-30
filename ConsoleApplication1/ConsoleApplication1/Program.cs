@@ -11,7 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("hola jodoh");
+            Console.WriteLine("Baghiz Zuhdi Adzin");
+            Console.WriteLine("0706022010017");
             Console.ReadKey();
 
         }
