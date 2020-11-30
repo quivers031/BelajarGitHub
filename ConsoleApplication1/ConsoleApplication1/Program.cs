@@ -10,7 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello namaku jonathan");
+            Console.WriteLine("NIM: 0706022010018 ");
             Console.ReadKey();
         }
     }
