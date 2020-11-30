@@ -10,7 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.WriteLine("Hello , Nama saya Yohan");
+            Console.WriteLine("NIM saya : 0706022010022");
             Console.ReadKey();
         }
     }
